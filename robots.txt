@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://oma-hiss.github.io/sitemap/sitemap.txt
